@@ -11,6 +11,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [ChatOps](#chatops)
   * [Cloning](#cloning)
   * [Cloud Computing](#cloud-computing)
+  * [Cloud Orchestration](#cloud-orchestration)
   * [Cloud Storage](#cloud-storage)
   * [Code Review](#code-review)
   * [Collaborative Software](#collaborative-software)
